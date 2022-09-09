@@ -15,7 +15,5 @@
 
 
 ### My Resume:
-
-[Kamil İşler CV.pdf](https://github.com/kmlisler/kmlisler/files/9336962/Kamil.Isler.CV.pdf)
-
+[Kamil İşler CV.pdf](https://github.com/kmlisler/kmlisler/files/9537723/Kamil.Isler.CV.pdf)
 
