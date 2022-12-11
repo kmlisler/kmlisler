@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 
-##    A passionate backend & fullstack developer from Turkey. Currently I'm taking role at Doğuş Teknoloji, I am helping develop projects in VDF(Volkswagen Doğuş Finansman) using ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ,Entity Framework, web services, DTOs, business layers on the backend and ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) on the frontend.
+## Data Engineer at StartupHeroes!
+
+### tech stack: ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) 
+
+###    Before I was taking role at Doğuş Teknoloji, I was helping develop projects in VDF(Volkswagen Doğuş Finansman) using ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ,Entity Framework, web services, DTOs, business layers on the backend and ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) on the frontend.
 
 ### I am also  experienced in developing full-stack projects on <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> & <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />  (MomentumSoft)
 
