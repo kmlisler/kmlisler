@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kamil</h1>
 
 ## Data Engineer at StartupHeroes!
 
